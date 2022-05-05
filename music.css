@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+3D&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Rock+3D&display=swap");
+
+body {
+  background-image: url("Assets/IMG_0676.jpeg");
+  background-size: 200vw;
+  background-attachment: fixed;
+}
+
+.header {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: rgb(255, 127, 80, 0.95);
+}
+
+#header {
+  text-align: center;
+  color: rgb(255, 127, 80, 0.75);
+  font-family: "Rock 3D", cursive;
+  font-size: 7vw;
+}
+
+.subhead {
+  text-align: center;
+  color: rgb(255, 127, 80, 0.7);
+  font-family: "Raleway", sans-serif;
+  font-size: 3vw;
+  background-color: rgb(245, 245, 245, 0.5);
+  margin-top: 2vw;
+    margin-bottom:2vw;
+}
+a:link {
+  color: coral;
+}
+
+a:visited {
+  color: rgb(221, 160, 221, 0.5);
+}
+
+.imgs {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0px;
+  margin: 0px;
+}
+
+#titles {
+  text-align: center;
+  color: rgb(255, 127, 80, 0.7);
+  font-family: "Raleway", sans-serif;
+  font-size: 3vw;
+  background-color: rgb(245, 245, 245, 0.5);
+
+}
+
+.images {
+  padding: 0vw;
+}
+
+.images2 {
+  padding: 0vw;
+}
+
+.images3 {
+  padding: 0vw;
+}
+
+.images4 {
+  padding: 0vw;
+}
+
+.images5 {
+  padding: 0vw;
+}
+
+.images6 {
+  padding: 0vw;
+}
+
+.images7 {
+  padding: 0vw;
+}
+
+.images8 {
+  padding: 0vw;
+}
+
+.images9 {
+  padding: 0vw;
+}
+
+.images10 {
+  padding: 0vw;
+}
+
+.images11 {
+  padding: 0vw;
+}
+
+.images12 {
+  padding: 0vw;
+}
+
+.images13 {
+  padding: 0vw;
+}
+
+.images14 {
+  padding: 0vw;
+}
+
+.images15 {
+  padding: 0vw;
+}
+
+.images16 {
+  padding: 0vw;
+}
+
+img {
+  opacity: 0.85;
+}

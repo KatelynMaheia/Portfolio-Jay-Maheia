@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+3D&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Rock+3D&display=swap");
+
+body {
+  background-image: url("Assets/IMG_7568.jpeg");
+  background-size: 100vw;
+}
+
+img {
+  opacity: 0.25;
+  border-radius: 600vw;
+}
+
+.my-divs {
+  text-align: center;
+}
+.paragraphs {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: rgb(255, 127, 80, 0.95);
+  /*   text-shadow: .25vw .25vw .5vw peachpuff; */
+}
+#list1 {
+  text-align: center;
+  text-indent: -25px;
+}
+#list2 {
+  text-align: center;
+  text-indent: -21px;
+}
+
+#list3 {
+  text-align: center;
+  text-indent: -23px;
+}
+
+#list4 {
+  text-align: center;
+  text-indent: -20px;
+}
+
+#list5 {
+  text-align: center;
+  text-indent: -18px;
+}
+
+#list6 {
+  text-align: center;
+  text-indent: -18px;
+}
+
+.box {
+  border: dotted;
+  border-width: 17px;
+  border-color: rgb(255, 127, 80, 0.5);
+  background-color: rgb(173, 216, 230, 0.1);
+  padding: 1vw;
+  margin: 1vw 1vw;
+  font-family: "Raleway", sans-serif;
+}
+#underline {
+  text-decoration: underline;
+  color: coral;
+}
+#underline2 {
+  text-decoration: underline;
+  color: coral;
+}
+#color {
+  color: coral;
+}
+
+#header {
+  text-align: center;
+  color: rgb(255, 127, 80, 0.75);
+  font-family: "Rock 3D", cursive;
+  font-size: 7vw;
+}
+
+#subhead {
+  text-align: center;
+  color: rgb(255, 127, 80, 0.7);
+  font-family: "Raleway", sans-serif;
+  font-size: 3vw;
+  background-color: rgb(173, 216, 230);
+}
+
+.background {
+  background-color: rgb(255, 240, 245, 0.5);
+}
+
+a:link {
+  color: coral;
+}
+
+a:visited {
+  color: rgb(221, 160, 221, 0.5);
+}
