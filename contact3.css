@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+3D&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Rock+3D&display=swap");
+
+body {
+  background-image: url("Assets/IMG_9370.jpeg");
+  background-size: 200vw;
+  background-attachment: fixed;
+}
+
+.header {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: rgb(255, 127, 80, 0.95);
+}
+
+#header {
+  text-align: center;
+  color: rgb(255, 127, 80, 0.75);
+  font-family: "Rock 3D", cursive;
+  font-size: 7vw;
+}
+
+.subhead {
+  text-align: center;
+  color: rgb(255, 127, 80, 0.7);
+  font-family: "Raleway", sans-serif;
+  font-size: 3vw;
+  background-color: rgb(245, 245, 245, 0.5);
+  margin-top: 2vw;
+    margin-bottom:2vw;
+}
+a:link {
+  color: coral;
+}
+
+a:visited {
+  color: rgb(221, 160, 221, 0.5);
+}
+
+#titles {
+    text-align: center;
+    color: rgb(255, 127, 80, 0.7);
+    font-family: "Raleway", sans-serif;
+    font-size: 3vw;
+    /* background-color: rgb(245, 245, 245, 0.5); */
+  
+  }
